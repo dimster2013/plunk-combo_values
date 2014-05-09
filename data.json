@@ -1,0 +1,17 @@
+{
+    "Organisation": {
+        "Facility": [
+            {
+                "facility_Item": {
+                    "text": "Parking"
+                },
+                "inherit_To_Service": "true"
+            },
+            {
+                "facility_Item": {
+                    "text": "Toilet"
+                },
+                "inherit_To_Service": "false"
+            }
+        ]
+    }}
